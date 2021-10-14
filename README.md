@@ -14,15 +14,19 @@ Some miscellaneous information:
 
 ## Models Tried
 - NaiveBiase Model -> 72% Accuracy
-- Conv1D Model ->
-- Model using pretrained token embedding ( Universal sentence embedding )
-- Conv1D Model using character level embedding
-- Model Described in paper ( https://arxiv.org/pdf/1612.05251.pdf )
+- Conv1D Model -> 78% Accuracy
+- Model using pretrained token embedding ( Universal sentence embedding ) -> 75% Accuracy
+- Conv1D Model using character level embedding -> 73% Accuracy 
+- Model with both token and charcter level embedding -> 76% Accuracy
+- Model with token, character and position level embedding ( https://arxiv.org/pdf/1612.05251.pdf ) -> 81% Accuracy
 <img src="https://user-images.githubusercontent.com/59719046/136952022-007c51e5-fffa-40be-811d-e17ad39b7458.png" width=40% height=40%>
 
 ## Final Results
+<!-- <img src="https://user-images.githubusercontent.com/59719046/137281751-ca40fd45-b5c6-44cc-acf4-ba06cb7fd6b8.png" width=40% height=40%>
+<img src="https://user-images.githubusercontent.com/59719046/137281827-37c2b5f8-76ee-48b1-af6e-da18c6f8bdce.png" width=40% height=40%> -->
 
 ## Contact Me
+
 
 <p align="start">
     <a href="https://github.com/vishalrk1" target="_blank">
