@@ -1,6 +1,8 @@
 # SkimLit
 An NLP model to classify abstract sentences into the role they play (e.g. objective, methods, results, etc..) to enable researchers to skim through the literature and dive deeper when necessary.
 
+<img src="https://user-images.githubusercontent.com/59719046/138639121-020343bb-e5dc-45a7-91d3-cd199f04f04e.png" width=50% height=50%>
+
 * **More specificially, I'am going to replicate the deep learning model behind the 2017 paper [*PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts*](https://arxiv.org/abs/1710.06071).**
 
 ## Dataset Used
@@ -12,6 +14,9 @@ Some miscellaneous information:
 - PubMed 20k is a subset of PubMed 200k. I.e., any abstract present in PubMed 20k is also present in PubMed 200k. 
 - `PubMed_200k_RCT` is the same as `PubMed_200k_RCT_numbers_replaced_with_at_sign`, except that in the latter all numbers had been replaced by `@`. (same for `PubMed_20k_RCT` vs. `PubMed_20k_RCT_numbers_replaced_with_at_sign`).
 
+- **Count Plot**
+<img src="https://user-images.githubusercontent.com/59719046/138639626-48336732-ca8f-4bfe-8063-0e1f7a7c6ae6.png" width=50% height=50%>
+
 ## Models Tried
 - NaiveBiase Model -> 72% Accuracy
 - Conv1D Model -> 78% Accuracy
@@ -19,7 +24,7 @@ Some miscellaneous information:
 - Conv1D Model using character level embedding -> 73% Accuracy 
 - Model with both token and charcter level embedding -> 76% Accuracy
 - Model with token, character and position level embedding ( https://arxiv.org/pdf/1612.05251.pdf ) -> 81% Accuracy
-<img src="https://user-images.githubusercontent.com/59719046/136952022-007c51e5-fffa-40be-811d-e17ad39b7458.png" width=40% height=40%>
+        <img src="https://user-images.githubusercontent.com/59719046/138639849-8bb0dcb4-f307-45cf-82ec-671530680863.png" width=40% height=40%>
 
 ## Final Results
 <!-- <img src="https://user-images.githubusercontent.com/59719046/137281751-ca40fd45-b5c6-44cc-acf4-ba06cb7fd6b8.png" width=40% height=40%>
