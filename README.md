@@ -27,8 +27,7 @@ Some miscellaneous information:
         <img src="https://user-images.githubusercontent.com/59719046/138639849-8bb0dcb4-f307-45cf-82ec-671530680863.png" width=40% height=40%>
 
 ## Final Results
-<!-- <img src="https://user-images.githubusercontent.com/59719046/137281751-ca40fd45-b5c6-44cc-acf4-ba06cb7fd6b8.png" width=40% height=40%>
-<img src="https://user-images.githubusercontent.com/59719046/137281827-37c2b5f8-76ee-48b1-af6e-da18c6f8bdce.png" width=40% height=40%> -->
+
 
 ## Contact Me
 
