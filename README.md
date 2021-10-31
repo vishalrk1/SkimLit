@@ -33,7 +33,7 @@ Some miscellaneous information:
 
 ### **Best Performong Model**
 
-<img src="images/bert model.png" width=80% height=80%>
+<img src="images/bert model.png" width=100% height=100%>
 
 ### **Final Outputs** 
 
