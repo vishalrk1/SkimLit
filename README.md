@@ -28,11 +28,27 @@ Some miscellaneous information:
 - Model described in [this](https://arxiv.org/pdf/1612.05251.pdf) paper with bert embedding -> 88% Accuracy
 ## Final Results
 
-- **Results of all Models**
+### **Results of all Models**
 <img src="images/modeling results.png" width=50% height=50%>
 
-- **Best Performong Model**
+### **Best Performong Model**
+
 <img src="images/bert model.png" width=80% height=80%>
+
+### **Final Outputs** 
+
+<img src="images/Streamlit.png" width=100% height=100%>
+
+
+## Packages Used
+- Tensorflow
+- tensorflow_text
+- tensorflow_hub
+- sklearn
+- numpy
+- pandas
+- spaCy
+
 
 ## Contact Me
 
