@@ -29,7 +29,7 @@ Some miscellaneous information:
 ## Final Results
 
 ### **Results of all Models**
-<img src="images/modeling results.png" width=50% height=50%>
+<img src="images/modeling results.png" width=80% height=80%>
 
 ### **Best Performong Model**
 
