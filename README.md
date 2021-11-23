@@ -45,6 +45,7 @@ Some miscellaneous information:
 - tensorflow_text
 - tensorflow_hub
 - sklearn
+- Matplotlib
 - numpy
 - pandas
 - spaCy
