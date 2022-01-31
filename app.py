@@ -4,8 +4,6 @@ import spacy
 # from spacy.lang.en import English
 # from utils import spacy_function, make_predictions, example_input
 
-import sys
-sys.path.insert(1, 'PyTorch')
 from Dataset import SkimlitDataset
 from Embeddings import get_embeddings
 from Model import SkimlitModel
