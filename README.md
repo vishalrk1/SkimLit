@@ -1,7 +1,7 @@
 # SkimLit
 An NLP model to classify abstract sentences into the role they play (e.g. objective, methods, results, etc..) to enable researchers to skim through the literature and dive deeper when necessary.
 
-<img src="https://user-images.githubusercontent.com/59719046/138639121-020343bb-e5dc-45a7-91d3-cd199f04f04e.png" width=80% height=80%>
+<img src="images/app.png" width=80% height=80%>
 
 * **More specificially, I'am going to replicate the deep learning model behind the 2017 paper [*PubMed 200k RCT: a Dataset for Sequenctial Sentence Classification in Medical Abstracts*](https://arxiv.org/abs/1710.06071).**
 
@@ -18,6 +18,8 @@ Some miscellaneous information:
 <img src="https://user-images.githubusercontent.com/59719046/138639626-48336732-ca8f-4bfe-8063-0e1f7a7c6ae6.png" width=50% height=50%>
 
 ## Models Tried
+All the note books are availabel [here]("https://github.com/vishalrk1/SkimLit/tree/main/Notebooks")
+
 - NaiveBiase Model -> 72% Accuracy
 - Conv1D Model -> 78% Accuracy
 - Model using pretrained token embedding ( Universal sentence embedding ) -> 75% Accuracy
